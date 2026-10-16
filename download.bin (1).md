@@ -391,3 +391,5 @@ Escribe un algoritmo en Python que solicite una cantidad entera de segundos (ej.
 - *Pista:* Utiliza los operadores de división entera `//` y módulo `%`.
 
 ---
+# configurar tu nombre completo (como aparecerá en Github) 
+git config - - global user.name "Tu Nombre Apellido"
